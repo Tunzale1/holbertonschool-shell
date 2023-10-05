@@ -9,4 +9,13 @@ chmod u+x {actualfilename}
 6) mkdir /tmp/my_first_directory
 7) mv /tmp/betty /tmp/my_first_directory
 8) rm /tmp/my_first_directory/betty
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
+9) rmdir /tmp/my_first_directory
 
