@@ -5,3 +5,5 @@ chmod u+x {actualfilename}
 2) cd ~ => changes the working directory to the user’s home directory (for checking source ./2-bring_me_home)
 3) ls -l  (./3-listfiles)
 4) ls -la (./4-listmorefiles)
+5) ls -lna --numeric-uid-gid (./5-listfilesdigitonly)
+
