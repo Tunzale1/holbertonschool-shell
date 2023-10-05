@@ -2,7 +2,7 @@ chmod u+x {actualfilename} for checking ./{filename}
 
 0) "**echo $(pwd)**" => prints the absolute path name of the current working directory
 1) "**ls -1**" => Display the contents list of your current directory
-2) "**cd ~**" => changes the working directory to the user’s home directory (for checking source ./2-bring_me_home)
+2) "cd ~" => changes the working directory to the user’s home directory (for checking source ./2-bring_me_home)
 3) "**ls -l**" => Display current directory contents in a long format.
 4) "**ls -la**" => Display current directory contents, including hidden files (starting with .). Use the long format.
 5) "**ls -lna --numeric-uid-gid**" => Display current directory contents. => Long format, with user and group IDs displayed numerically, And hidden files (starting with. 
