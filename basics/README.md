@@ -6,4 +6,7 @@ chmod u+x {actualfilename}
 3) ls -l  (./3-listfiles)
 4) ls -la (./4-listmorefiles)
 5) ls -lna --numeric-uid-gid (./5-listfilesdigitonly)
-6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)
+6) mkdir /tmp/my_first_directory (file /tmp/my_first_directory/)
+7) mv /tmp/betty /tmp/my_first_directory (ls /tmp/my_first_directory/
+betty)
+
